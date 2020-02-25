@@ -24,6 +24,6 @@ class DirectorTest extends TestCase
         $carBuilder = new CarBuilder();
         $newVehicle = (new Director())->build($carBuilder);
 
-        $this->assertInstanceOf(Car::class, $newVehicle);
+        $this->assertInstanceOf(Track::class, $newVehicle);
     }
 }
