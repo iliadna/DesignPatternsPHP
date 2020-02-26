@@ -8,8 +8,7 @@
             <directory suffix="Test.php">Structural/*/Tests</directory>
         </testsuite>
     </testsuites>
-    <filter>
-        	<filter>
+        <filter>
 		    <whitelist processUncoveredFilesFromWhitelist="true">
 			<directory suffix=".php">.</directory>
 			<exclude>./vendor</exclude>
