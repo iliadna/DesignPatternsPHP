@@ -13,4 +13,5 @@
 			<directory suffix=".php">./php</directory>
 		</whitelist>
 	</filter>
+	<log type="coverage-clover" target="clover.xml"/>
 </phpunit>
