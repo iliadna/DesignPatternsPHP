@@ -11,6 +11,12 @@
     <filter>
         <whitelist>
         <directory suffix=".php">.</directory>
+        <exclude>
+            <directory>Behavioral/*/Tests</directory>
+            <directory>Creational/*/Tests</directory>
+            <directory>More/*/Tests</directory>
+            <directory>Structural/*/Tests</directory>
+         </exclude>
         </whitelist>
     </filter>
 </phpunit>
