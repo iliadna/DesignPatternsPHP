@@ -1,5 +1,4 @@
-# DesignPatternsPHP
-
+# DesignPatternsPHP1
 
 [![Build Status](https://github.com/domnikl/DesignPatternsPHP/workflows/CI/badge.svg)](https://github.com/domnikl/DesignPatternsPHP/actions)
 [![Documentation Status](https://readthedocs.org/projects/designpatternsphp/badge/?version=latest)](https://readthedocs.org/projects/designpatternsphp/?badge=latest)
